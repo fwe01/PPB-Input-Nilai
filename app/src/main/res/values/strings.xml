@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">Nilai Rata Rata</string>
+    <string name="action_settings">Settings</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+
+    <string name="nrp">NRP</string>
+    <string name="hint_nrp">05111940000XXX</string>
+
+    <string name="hitung">Hitung Rata - Rata</string>
+
+    <string name="nilai_ets">Nilai ETS</string>
+    <string name="nilai_eas">Nilai EAS</string>
+    <string name="nilai_tugas">Nilai Tugas</string>
+    <string name="nilai_quiz1">Nilai Quiz 1</string>
+    <string name="nilai_quiz2">Nilai Quiz 2</string>
+
+    <string name="nilai_perbaikan_tugas">Nilai Perbaikan Tugas</string>
+    <string name="nilai_perbaikan_ets">Nilai Perbaikan ETS</string>
+    <string name="nilai_perbaikan_eas">Nilai Perbaikan EAS</string>
+    <string name="nilai_perbaikan_quiz1">Nilai Perbaikan Quiz 1</string>
+    <string name="nilai_perbaikan_quiz2">Nilai Perbaikan Quiz 2</string>
+
+    <string name="hasil_rata_rata">"Hasil Rata - Rata : "</string>
+</resources>
